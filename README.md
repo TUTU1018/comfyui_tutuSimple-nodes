@@ -74,7 +74,8 @@ Use the confidence mask when comparing or compositing changed images.
 
 [MIT](LICENSE)
 
-## 在线体验
+## Online Experience
 
-[RunningHub](https://www.runninghub.ai?inviteCode=rh-v1635) 是全球最大的 ComfyUI
-在线体验网站。注册即可领取 1000 RH 币，可以免费生成许多图片和视频！
+[RunningHub](https://www.runninghub.ai?inviteCode=rh-v1635) is the world's largest
+online ComfyUI platform. Sign up to receive 1,000 RH Coins and generate plenty
+of images and videos for free!
